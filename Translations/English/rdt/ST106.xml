@@ -1,0 +1,11 @@
+﻿<Strings>
+    <Text p="0">It's locked from the other side. {pause}{clear}It can't be unlocked from this \nside.{pause}</Text>
+    <Text p="8">It's a control panel for checking \nthe operation of the water {pause}{clear}tower. It is completely rusty.{pause}</Text>
+    <Text p="10">It looks like a very old sign. {pause}{clear}“Military Facility Up Ahead.   \nMissile Silo” {pause}{clear}“This route has been closed due \nto an unusual outbreak of {pause}{clear}poisonous plants. They are \nscheduled to be incinerated next {pause}{clear}week.”{pause}</Text>
+    <Text p="12">It's a water supply tank. The \nsurface is heavily corroded. {pause}{clear}It doesn't seem like rust, it's \nprobably caused by the rain of {pause}{clear}this world.{pause}</Text>
+    <Text p="15">{pic}You have found a DINO FILE. {pause}{clear}The file contains data collected \nby the military about the {pause}{clear}dinosaurs that live in this world.{pause}</Text>
+    <Text p="31">{pic}\n                  {delay 28732}</Text>
+    <Text p="32">{pic}                                    {delay 28792}</Text>
+    <Text p="35">{pic}\n                  {delay 28762}</Text>
+    <Text p="36">{pic}\n                  {delay 28732}</Text>
+</Strings>

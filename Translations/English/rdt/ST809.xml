@@ -1,0 +1,12 @@
+﻿<Strings>
+    <Text p="1">There is a foul stench in the \narea.{pause}{clear}They must have battled it all out \nhere.{pause}</Text>
+    <Text p="3">His wind pipe has been ripped \nout.{pause}{clear}They appear to have been killed \nnot as food but as enemy.{pause}</Text>
+    <Text p="5">There is still smell of smoke in \nthe air.{pause}{clear}Not much time has passed since \nthey were killed.{pause}</Text>
+    <Text p="7">Appears to have died from a \nbullet.{pause}{clear}It is the body of a citizen.{pause}</Text>
+    <Text p="9">He is dead, soaked in his own \nblood.{pause}</Text>
+    <Text p="11">It's the barricade which isolates \nthe control base.{pause}{clear}The is no reason to go back.{pause}</Text>
+    <Text p="35"></Text>
+    <Text p="38"></Text>
+    <Text p="52"></Text>
+    <Text p="85">You have found a new DINO FILE.{pause}</Text>
+</Strings>

@@ -1,0 +1,4 @@
+﻿<Strings>
+    <Text p="2">It's an auxilary energy fuel tank \nfor the missile silo.{pause}{clear}It didn't explode because it was \nempty.{pause}</Text>
+    <Text p="4">The blast of the explosion \ncaused a section of the wall to {pause}{clear}peel away.{pause}</Text>
+</Strings>

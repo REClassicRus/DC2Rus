@@ -1,0 +1,12 @@
+﻿<Strings>
+    <Text p="25">{pic}                                    {delay 28742}{clear}{pic}                                    {delay 28702}</Text>
+    <Text p="50">{pic}                                    {delay 28767}</Text>
+    <Text p="53">{pic}                                    {delay 28722}{clear}{pic}                                    {delay 28742}</Text>
+    <Text p="60">Get through this area with the \nhelp of your partner covering {pause}{clear}you.{pause}{clear}By using the signal bullet armed \nas your sub-weapon, you'll be {pause}{clear}able to receive cover from your \npartner.{pause}</Text>
+    <Text p="65">{pic}                                    {delay 28717}</Text>
+    <Text p="66">{pic}                                    {delay 28732}</Text>
+    <Text p="67">Regina will cover you from the \nplatform. Let's get moving.{pause}</Text>
+    <Text p="73">{delay 28702}{pic}                                    {delay 28752}</Text>
+    <Text p="81">{pic}                                    {delay 28732}</Text>
+    <Text p="82">{pic}                                    {delay 28732}</Text>
+</Strings>

@@ -1,0 +1,20 @@
+﻿<Strings>
+    <Text p="8">Trying to figure out the data \nscattered on the floor.{pause}</Text>
+    <Text p="9">Many documents and papers are \nscattered on the sofa.{pause}{clear}Looks like somebody was in here \nsearching for the data on the {pause}{clear}citizens of this time.{pause}</Text>
+    <Text p="10">It is the “Timegate” which links \nthis world and the “present” {pause}{clear}time. It is totally destroyed. \nRepairing it seems impossible.{pause}</Text>
+    <Text p="11">There are control panels and time \nsettings for the Timegate.{pause}{clear}The keyboard and the screen \nhave been completely destroyed.{pause}</Text>
+    <Text p="16"></Text>
+    <Text p="19"></Text>
+    <Text p="20"></Text>
+    <Text p="23"></Text>
+    <Text p="24"></Text>
+    <Text p="26"></Text>
+    <Text p="29"></Text>
+    <Text p="32"></Text>
+    <Text p="35"></Text>
+    <Text p="36">It's an engine starting unit. {pause}{clear}The battery to start the engine \nhas been destroyed.{pause}</Text>
+    <Text p="38">She's looking at the engine \nstarter, thinking.{pause}</Text>
+    <Text p="41"></Text>
+    <Text p="43">Trying to figure out the data \nscattered on the floor.{pause}</Text>
+    <Text p="46"></Text>
+</Strings>

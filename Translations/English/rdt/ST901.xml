@@ -1,0 +1,14 @@
+﻿<Strings>
+    <Text p="8">It's a dead body of a raptor. The \nraptor has a shotgun wound. The {pause}{clear}owner and the raptor must have \nkilled each other.{pause}</Text>
+    <Text p="9">It's a dead body of a raptor. The \nraptor has a shotgun wound. The {pause}{clear}owner and the raptor must have \nkilled each other.{pause}</Text>
+    <Text p="10">There are many repair items such \nas paint. Most of the cans have {pause}{clear}swollen from age.{pause}</Text>
+    <Text p="11">The cart probably had everyday \ngoods in it. There are hardly any {pause}{clear}new goods. Old books already \nread are everywhere.{pause}</Text>
+    <Text p="12">In the cashier are lots of bills \nput in carelessly. All the coins {pause}{clear}have been taken out.{pause}</Text>
+    <Text p="13">On the counter are books and \ntabs of sales records. {pause}{clear}Of course there is nothing \nwritten in them.{pause}</Text>
+    <Text p="14">On the counter are books and \ntabs of sales records. {pause}{clear}Of course there is nothing \nwritten in them.{pause}</Text>
+    <Text p="15">The glass on the shelf has \nbroken and the inside has been {pause}{clear}trashed.{pause}</Text>
+    <Text p="16">The reinforced glass has been \nshattered. The dirt and mud on {pause}{clear}the window frame is a sign of a \ndinosaur intrusion.{pause}</Text>
+    <Text p="17">Knives and hammers must have \nbeen kept here.  But nothing is {pause}{clear}left. They must have been taken \nto use as weapons.{pause}</Text>
+    <Text p="18">There is a shredded box of \ncigarettes and inside are {pause}{clear}hand-made cigars.{pause}</Text>
+    <Text p="20">{delay 28677}He must have been the owner of \nthis store. There is a shotgun {pause}{clear}by his feet.{pause}</Text>
+</Strings>

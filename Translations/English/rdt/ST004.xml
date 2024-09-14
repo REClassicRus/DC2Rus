@@ -1,0 +1,6 @@
+﻿<Strings>
+    <Text p="3">Water is inside. Perhaps it is \nused for emergency situations.{pause}</Text>
+    <Text p="4">An on-board tank especially for \nthis ship.{pause}</Text>
+    <Text p="5">Fuel for the tank. {pause}</Text>
+    <Text p="6">Looks like a high performance \ngun with power.{pause}</Text>
+</Strings>

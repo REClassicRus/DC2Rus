@@ -1,0 +1,14 @@
+﻿<Strings>
+    <Text p="17">{pic}{delay 28742}{clear}{pic}{delay 28702}</Text>
+    <Text p="18">{pic}{delay 28705}</Text>
+    <Text p="22">{pic}{delay 28732}</Text>
+    <Text p="23">{pic}{delay 28797}</Text>
+    <Text p="24">{pic}{delay 28772}</Text>
+    <Text p="29">{pic}{delay 28717}</Text>
+    <Text p="33">{pic}{delay 28712}</Text>
+    <Text p="47">While David is opening the water \ngate, cover him using the gun {pause}{clear}on top of the guard tower.{pause}</Text>
+    <Text p="56">{pic}{delay 28717}</Text>
+    <Text p="60">{pic}{delay 28747}</Text>
+    <Text p="63">{pic}{delay 28692}</Text>
+    <Text p="84">{pic}{delay 28722}</Text>
+</Strings>

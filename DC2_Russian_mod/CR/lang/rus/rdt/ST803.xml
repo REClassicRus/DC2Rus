@@ -1,0 +1,8 @@
+﻿<Strings>
+    <Text p="1">It's David's mark.{pause}</Text>
+    <Text p="3">A motor boat has been deserted. \nThe bottom of the boat has {pause}{clear}been severly dented. {pause}{clear}Could it be that it was attacked \nby something in the lake?{pause}</Text>
+    <Text p="15">{pic}                                    {delay 28732}</Text>
+    <Text p="18">{pic}                                    {delay 28732}</Text>
+    <Text p="19">{pic}                                    {delay 28772}</Text>
+    <Text p="20">{pic}                                    {delay 28732}</Text>
+</Strings>

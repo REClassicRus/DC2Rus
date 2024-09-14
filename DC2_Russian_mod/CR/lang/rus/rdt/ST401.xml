@@ -1,0 +1,22 @@
+﻿<Strings>
+    <Text p="0">There is no need to operate it \nanymore.{pause}</Text>
+    <Text p="4">With the shield shutter activated, \nyou cannot go in.{pause}</Text>
+    <Text p="5">All the computers are covered \nwith dust.{pause}</Text>
+    <Text p="6">All the computers are covered \nwith dust.{pause}</Text>
+    <Text p="10">\nThis one has power.{pause}{clear}Will you operate it?{0x3000}</Text>
+    <Text p="14">There is no need to operate it \nanymore.{pause}</Text>
+    <Text p="15">{delay 28677}The mission data has been \nupdated.{pause}</Text>
+    <Text p="21"></Text>
+    <Text p="22"></Text>
+    <Text p="23"></Text>
+    <Text p="32"></Text>
+    <Text p="53"></Text>
+    <Text p="61"></Text>
+    <Text p="74"></Text>
+    <Text p="87"></Text>
+    <Text p="93"></Text>
+    <Text p="95"></Text>
+    <Text p="98"></Text>
+    <Text p="100"></Text>
+    <Text p="106">There is something behind the \nmonitor.{pause}{clear}You have found a new DINO FILE.{pause}</Text>
+</Strings>

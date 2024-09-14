@@ -1,0 +1,4 @@
+﻿<Strings>
+    <Text p="0">{pic}Many small supplies are placed in \na disorderly manner.{pause}</Text>
+    <Text p="2">{pic}A message is posted to the \nstaff. It reads, “Medicine and {pause}{clear}other related supplies have run \nout. Please cooperate in the {pause}{clear}sample collections of wild drug \nplants. Medical Room”.{pause}</Text>
+</Strings>

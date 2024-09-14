@@ -1,0 +1,5 @@
+﻿<Strings>
+    <Text p="7">There is a spring coming out \nfrom between the rocks.{pause}{clear}Leaves and other light things are \nflowing down in the water.{pause}</Text>
+    <Text p="34">There is a keycard. It must have \nbeen washed up here by the {pause}{clear}current.{pause}</Text>
+    <Text p="35">{delay 28692}The mission data has been \nupdated.{pause}</Text>
+</Strings>

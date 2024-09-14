@@ -1,0 +1,5 @@
+﻿<Strings>
+    <Text p="11">{pic}{delay 28752}</Text>
+    <Text p="19">{pic}{delay 28762}</Text>
+    <Text p="28">Manuever the tank and get \nthrough this area. {pause}{clear}Use the L1/R1 buttons to turn \nthe cannon and the action button {pause}{clear}to fire the cannon. Also by \nusing the sub-weapon button, {pause}{clear}you can fire a flash bomb to \nslow down the enemy.{pause}</Text>
+</Strings>

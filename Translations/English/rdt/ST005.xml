@@ -1,0 +1,8 @@
+﻿<Strings>
+    <Text p="6">Water is inside. Perhaps it is \nused for emergency situations.{pause}</Text>
+    <Text p="7">An on-board tank especially for \nthis ship.{pause}</Text>
+    <Text p="8">Fuel for the tank. {pause}</Text>
+    <Text p="9">Looks like a high performance \ngun with power.{pause}</Text>
+    <Text p="58">Taking a breather after the \nintense battle.{pause}</Text>
+    <Text p="60"></Text>
+</Strings>

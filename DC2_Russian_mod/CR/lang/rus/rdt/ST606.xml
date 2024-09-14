@@ -1,0 +1,5 @@
+﻿<Strings>
+    <Text p="1">It's been shutdown.\nIt won't open.{pause}</Text>
+    <Text p="3">It's an energy leak detection unit. \nThere's probably a gigantic {pause}{clear}energy generator somewhere \nnear by.{pause}</Text>
+    <Text p="17">This elevator will take you back \nto the surface.{pause}{clear}Will you operate the elevator?{0x3000}</Text>
+</Strings>

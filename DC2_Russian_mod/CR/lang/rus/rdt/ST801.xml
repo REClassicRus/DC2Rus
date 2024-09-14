@@ -1,0 +1,11 @@
+﻿<Strings>
+    <Text p="1">A large herbivorous reptile, a \nTriceratops has crashed into a {pause}{clear}wall and died. It seems that \nsomeone has shot it with a {pause}{clear}poison bullet, causing its \nnervous system to break down.{pause}</Text>
+    <Text p="3">There is a large bite mark.{pause}{clear}It could be the bite mark of a \ndinosaur we've never seen yet.{pause}</Text>
+    <Text p="5">Materials for repairs are stacked.\nIt looks like it's been untouched.{pause}{clear}Maybe they thought repairing it \nwas meaningless.{pause}</Text>
+    <Text p="7">A steel tower for the electrical \nlines has fallen to the ground. {pause}{clear}Could the Triceratops have done \nthis?{pause}</Text>
+    <Text p="9">The hose of the fuel truck is \nconnected to the generator {pause}{clear}underneath all the rubble.{pause}</Text>
+    <Text p="11">On the truck are many empty gas \ncylinders.{pause}{clear}The cylinders are marked with \npoison marks.{pause}</Text>
+    <Text p="43"></Text>
+    <Text p="45">You found a new DINO FILE.{pause}</Text>
+    <Text p="46"></Text>
+</Strings>

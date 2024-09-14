@@ -1,0 +1,14 @@
+﻿<Strings>
+    <Text p="2">The elevator cannot be used \nbecause there is no power.{pause}{clear}You need to press the switch \nnext to the door.{pause}</Text>
+    <Text p="4">The elevator is already operating. \nThere is no need to operate it.{pause}</Text>
+    <Text p="6">It's a panel which fell from the \nfloor above.{pause}</Text>
+    <Text p="13">There's an elevator on the other \nside of the shield.{pause}{clear}By using a powerful weapon the \nshield can be destroyed.{pause}</Text>
+    <Text p="16">There's an elevator on the other \nside of the shield.{pause}{clear}By using a powerful weapon the \nshield can be destroyed.{pause}</Text>
+    <Text p="56"></Text>
+    <Text p="60"></Text>
+    <Text p="65"></Text>
+    <Text p="66"></Text>
+    <Text p="69">You can go to the surface.{pause}{clear}Will you operate the elevator?{0x3000}</Text>
+    <Text p="92">It's an elevator power panel.{pause}{clear}Will you operate the panel?{0x3000}</Text>
+    <Text p="93">The elevator is already operating. \nThere is no need to operate it.{pause}</Text>
+</Strings>

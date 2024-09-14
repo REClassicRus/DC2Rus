@@ -1,0 +1,19 @@
+﻿<Strings>
+    <Text p="9">There is nothing in the enclosure.{pause}</Text>
+    <Text p="10">It's an over-sized shutter for the \ntransportation of materials. It's {pause}{clear}not operational due to the \nrusted condition.{pause}</Text>
+    <Text p="18">There is a diving suit inside. You \nneed to resume power to take {pause}{clear}out the suit.{pause}</Text>
+    <Text p="22">It's a terminal which stores the \nlogs of the diving suit usage.{pause}{clear}There is no power.{pause}</Text>
+    <Text p="23">This terminal controls the power \nto this room. There is no need {pause}{clear}to operate it anymore.{pause}</Text>
+    <Text p="28">It's a terminal which stores the \nlogs of the diving suit usage.{pause}{clear}It has been more than a year \nsince the diving suits were last {pause}{clear}used.{pause}</Text>
+    <Text p="33">This terminal controls the power \nto all the machines in this room. {pause}{clear}The power has been shut to the \nelevator and to the diving suit {pause}{clear}enclosure. Displayed on the \nscreen is the program to restart {pause}{clear}the power.{pause}{clear}Will you restart the power?{0x3000}</Text>
+    <Text p="42"></Text>
+    <Text p="43"></Text>
+    <Text p="44"></Text>
+    <Text p="49"></Text>
+    <Text p="53">You have failed to restart the \nmain power.{pause}{clear}Will you try again?{0x3000}</Text>
+    <Text p="58"></Text>
+    <Text p="61">Regina wore the diving suit to go \ndown to the underwater facility.{pause}</Text>
+    <Text p="64">This is the control panel which \noperates the over-sized {pause}{clear}elevator.{pause}{clear}You need to wear the diving suit \nin order to go down underwater.{pause}</Text>
+    <Text p="65">Dylan is not able to wear the \ndiving suit. Nor can he operate {pause}{clear}the control panel either.{pause}</Text>
+    <Text p="66">This is the control panel which \noperates the over-sized {pause}{clear}elevator.{pause}{clear}You need to resume power to \noperate it.{pause}</Text>
+</Strings>

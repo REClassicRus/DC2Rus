@@ -1,0 +1,16 @@
+﻿<Strings>
+    <Text p="0">It looks like his torso has been \nripped.{pause}{clear} He must have died a while ago.{pause}</Text>
+    <Text p="1">It has been sitting here for a \nlong time.{pause}{clear}The ivy has grown all over it.\nIt looks like it won't move.{pause}</Text>
+    <Text p="2">Its become all red from rust.\nIt's empty.{pause}</Text>
+    <Text p="3">Above this cliff is where the \nbase camp was set. The cliff is {pause}{clear}too steep to climb.{pause}</Text>
+    <Text p="4">The ivy is wrapped around the \nfence. The plants are not from {pause}{clear}our time.{pause}</Text>
+    <Text p="22">{delay 28807}{pic}                                    {delay 28762}{clear}{pic}                                    {delay 28732}</Text>
+    <Text p="23">{delay 28702}{pic}                                    {delay 28702}</Text>
+    <Text p="26">{pic}                                    {delay 28752}{clear}{pic}                                    {delay 28772}{clear}{pic}                                    {delay 28762}</Text>
+    <Text p="30">{pic}                                    {delay 28742}{clear}{pic}                                    {delay 28732}</Text>
+    <Text p="31">{pic}                                    {delay 28792}</Text>
+    <Text p="33">{pic}                                    {delay 28782}</Text>
+    <Text p="36">{pic}                                    {delay 28802}{clear}{pic}                                    {delay 28732}</Text>
+    <Text p="37">{pic}                                    {delay 28722}</Text>
+    <Text p="40">{pic}                                    {delay 28762}{clear}{pic}                                    {delay 28752}</Text>
+</Strings>

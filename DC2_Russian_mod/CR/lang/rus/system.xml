@@ -1,0 +1,615 @@
+﻿<Strings>
+	<Entry><Text>Regina</Text></Entry>
+	<Entry><Text>Dylan</Text></Entry>
+	<Entry><Text>Rick</Text></Entry>
+	<Entry><Text>Gail</Text></Entry>
+	<Entry><Text>Tank</Text></Entry>
+	<Entry><Text>Oviraptor</Text></Entry>
+	<Entry><Text>Velociraptor</Text></Entry>
+	<Entry><Text>Inostrancevia</Text></Entry>
+	<Entry><Text>Allosaur</Text></Entry>
+	<Entry><Text>Tyrannosaurus Rex</Text></Entry>
+	<Entry><Text>Triceratops</Text></Entry>
+	<Entry><Text>Compsognathus</Text></Entry>
+    <Entry>
+        <Ptr p="7486660"/>
+        <Text>F9: Return to title\nOther key: Cancel</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="7486664"/>
+        <Text>F9: Exit game\nOther key: Cancel</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4641651"/>
+        <Text>\n</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4803677"/>
+        <Text>Yes</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4803698"/>
+        <Text>No</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4231714"/>
+        <Text>REGINA</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4231731"/>
+        <Text>DYLAN</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4875193"/>
+        <Ptr p="4877341"/>
+        <Text>Not used to playing this type of game.</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4875201"/>
+        <Ptr p="4877349"/>
+        <Text>Used to playing this type of game.</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4875209"/>
+        <Ptr p="4877367"/>
+        <Text>Skilled in playing this type of game.</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4792945"/>
+        <Ptr p="4815183"/>
+        <Text>Equip and check your weapons.</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4812056"/>
+        <Ptr p="4812579"/>
+        <Text>Equip and check your Main Weapon.</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4812610"/>
+        <Text>Equip and check your Sub Weapon.</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4792953"/>
+        <Ptr p="4823725"/>
+        <Text>Use Recoveries and Items.</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4819882"/>
+        <Ptr p="4820636"/>
+        <Text>Use Recovery Items.</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4820653"/>
+        <Text>Use Items.</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4792961"/>
+        <Text>Read Files.</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4792969"/>
+        <Text>Look at the Map.</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4819318"/>
+        <Text>Equip</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4819342"/>
+        <Ptr p="4822746"/>
+        <Text>Check</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4822723"/>
+        <Text>Use</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4822096"/>
+        <Text>You don't have \nany recovery items.</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4815308"/>
+        <Text>Please equip your \nMain Weapon.</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4828552"/>
+        <Text>You don't have \nany files.</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4823288"/>
+        <Text>You don't have \nany items.</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4823460"/>
+        <Ptr p="4823502"/>
+        <Text>It can't be \nused here.</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4823524"/>
+        <Text>Item already \nequipped.</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4848220"/>
+        <Text>Will you take the\n</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4847624"/>
+        <Ptr p="4848640"/>
+        <Text>You got the\n</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4848093"/>
+        <Text>Unable to carry any more items.</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4231269"/>
+        <Ptr p="4234852"/>
+        <Ptr p="4247057"/>
+        <Text>You bought the \n</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4231181"/>
+        <Ptr p="4234578"/>
+        <Ptr p="4246979"/>
+        <Text>Will you buy?</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4821327"/>
+        <Text>Will you use?</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4849908"/>
+        <Text>Are you sure?</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4236974"/>
+        <Text>Choose weapon to charge.</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4237943"/>
+        <Text>Set number of ammo to buy.</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4238801"/>
+        <Text>Choose cartridge to buy.</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4237282"/>
+        <Text>Buy ammo.</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4238334"/>
+        <Text>Bought ammo.</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4238249"/>
+        <Text>Will you buy ammo?</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4237355"/>
+        <Text>Increase max ammo storage.</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4239230"/>
+        <Text>Bought cartridge.</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4239139"/>
+        <Text>Will you buy a cartridge?</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4251190"/>
+        <Ptr p="4251204"/>
+        <Text>New item has been added.</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4834534"/>
+        <Ptr p="4834548"/>
+        <Text>Due to radio wave interference, \nyou can't receive the map.</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4849867"/>
+        <Text>Set the destination.</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4235169"/>
+        <Text>Your item space is full. \nYou can't buy.</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4231586"/>
+        <Ptr p="4235295"/>
+        <Ptr p="4239581"/>
+        <Ptr p="4247678"/>
+        <Text>You need more Extinction Points.</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4239905"/>
+        <Text>You cannot buy any more \ncartridges.</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4247803"/>
+        <Text>There is nothing to buy.</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4231723"/>
+        <Ptr p="4231740"/>
+        <Text>{0x0243}{0x03F7}できません\n</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4231762"/>
+        <Text>では{0x0353}{0x0430}できない{0x0446}{0x01A3}です</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4239772"/>
+        <Text>There is no weapon to buy ammo \nor cartridge.</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4822452"/>
+        <Text>Choose item to use.</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4827923"/>
+        <Text>Choose file to read.</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4250727"/>
+        <Text>Buy Weapon</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4250735"/>
+        <Text>Buy Recovery</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4250743"/>
+        <Text>Buy Ammo/Magazine</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4250751"/>
+        <Text>Buy Support Item</Text>
+    </Entry>
+	<Entry>
+        <Ptr p="7463248"/>
+        <Text>Buy Weapon/Recovery/Ammo</Text>
+    </Entry>
+	<Entry>
+        <Ptr p="7463252"/>
+        <Text>Save Data in Harddisk</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4230873"/>
+        <Text>Main Weapon</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4230887"/>
+        <Text>Sub Weapon</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4230811"/>
+        <Ptr p="4817032"/>
+        <Text>Double handed</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4230818"/>
+        <Ptr p="4817039"/>
+        <Text>Single handed</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4639113"/>
+        <Ptr p="4640685"/>
+        <Text>Now Loading Data.</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4639362"/>
+        <Text>Now Saving Data.</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4637776"/>
+        <Ptr p="4641660"/>
+        <Text>Data is broken.</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4641675"/>
+        <Text>Data is unusable.</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4641413"/>
+        <Text>No Data.</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4641537"/>
+        <Ptr p="4641551"/>
+        <Text>Unable to Save Data.</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4638867"/>
+        <Ptr p="4638881"/>
+        <Text>Select Data to Save.</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4636070"/>
+        <Text>Select Data to Load.</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4641913"/>
+        <Ptr p="4641927"/>
+        <Text>Overwrite Data?</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4641051"/>
+        <Ptr p="4641065"/>
+        <Text>Save Complete.</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4637552"/>
+        <Text>Data is for another Game.</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4637664"/>
+        <Text>Unused.</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4686795"/>
+        <Text>Change input settings</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4686803"/>
+        <Text>Change sound settings</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4686811"/>
+        <Text>Change graphical settings</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4686819"/>
+        <Text>Reset the game</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4686827"/>
+        <Text>Exit screen</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4686355"/>
+        <Text>Reset game?</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4678368"/>
+        <Ptr p="4680133"/>
+        <Text>Operation</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4678376"/>
+        <Text>Side Stepping</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4678384"/>
+        <Text>Auto Targetting</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4678392"/>
+        <Ptr p="4682031"/>
+        <Text>Key Rebind</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4682452"/>
+        <Text>Decide/Check/Attack</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4682856"/>
+        <Text>Sub Weapon</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4682757"/>
+        <Text>Cancel\nJet(underwater)</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4682676"/>
+        <Text>Cancel\nJet(underwater)\nStep</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4682546"/>
+		<Ptr p="7538576"/>
+        <Text>180 degrees turn</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4528802"/>
+        <Ptr p="4528818"/>
+        <Ptr p="4529087"/>
+        <Ptr p="4529271"/>
+        <Text>Will you continue?</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4528825"/>
+        <Ptr p="4528841"/>
+        <Ptr p="4529114"/>
+        <Ptr p="4529286"/>
+        <Text>Will you use the Resusc. Pak?</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4833139"/>
+        <Text>Detail</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4839434"/>
+        <Text>Patrol Ship</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4839443"/>
+        <Ptr p="4859197"/>
+        <Text>Jungle</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4839451"/>
+        <Text>Military Facility</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4839459"/>
+        <Text>Research Facility</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4839467"/>
+        <Text>Missile Silo</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4839475"/>
+        <Ptr p="4859941"/>
+        <Text>3rd Energy Facility</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4839483"/>
+        <Text>3rd Energy Reactor</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4839491"/>
+        <Text>Areaway to City</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4839499"/>
+        <Ptr p="4861044"/>
+        <Text>Edward City</Text>
+    </Entry>
+	<Entry>
+		<Ptr p="4839296"/>
+		<Text>Habitat Support Facility</Text>
+	</Entry>
+    <Entry>
+        <Ptr p="4657177"/>
+        <Text>Yes</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4657217"/>
+        <Text>No</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4766064"/>
+		<Ptr p="7543484"/>
+        <Text>\nIt's electronically locked.{pause}{clear}You may be able to short it \nwith Regina's stungun.{pause}</Text>
+    </Entry>
+	<Entry>
+		<Ptr p="7543488"/>
+        <Text>The ivy is wrapped around the door.{pause}{clear}You may be able to cut it \nwith Dylan's machete.{pause}</Text>
+    </Entry>
+	<Entry>
+		<Ptr p="7543492"/>
+        <Text>\nIt's electronically locked.{pause}</Text>
+    </Entry>
+	<Entry>
+		<Ptr p="7543496"/>
+        <Text>\nIt's locked.{pause}</Text>
+    </Entry>
+	<Entry>
+		<Ptr p="7543500"/>
+        <Text>\nThe door is locked on this version.{pause}</Text>
+    </Entry>
+	<Entry>
+		<Ptr p="4766043"/>
+        <Text>\nThe lock has been released.{pause}</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4487255"/>
+        <Text>Will you add\nto Colosseum?</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4487412"/>
+        <Ptr p="4487426"/>
+        <Text>You need more Extinction Points.</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4485334"/>
+        <Ptr p="4485348"/>
+        <Text>You got an EPS Platinum Card.\nYou wil be able to buy weapons \nwith unlimited ammo.</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4485691"/>
+        <Ptr p="4485705"/>
+        <Text>A bonus game, \nDINO COLOSSEUM has been added.</Text>
+    </Entry>
+	<Entry>
+		<Ptr p="4315775"/>
+        <Text>{pic}Shoot the enemies with the \nmachine gun.{wait 90}</Text>
+    </Entry>
+	<Entry>
+		<Ptr p="4315787"/>
+        <Text>{pic}Surpress the Triceratops' attack \nusing the rifle.{wait 90}</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4876626"/>
+        <Text>Start a new game from the beginning.</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4876641"/>
+        <Text>Start from a place last saved.</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4876655"/>
+        <Text>Mini-Game Dino Colosseum</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4876663"/>
+        <Text></Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4876671"/>
+        <Text></Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4645765"/>
+        <Text>Annihilate all the dinosaurs \nwithin the time limit.</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4645776"/>
+        <Text>It's dinosaur versus dinosaur. \n(2 player game)</Text>
+    </Entry>
+    <Entry>
+        <Ptr p="4645784"/>
+        <Text>Return to title screen.</Text>
+    </Entry>
+	<!-- dino colosseum -->
+	<Entry>
+        <Ptr p="7486272"/>
+        <Text>An intelligence agent of S.O.R.T. \nShe is calm and rational. \nShe excels in infiltration.</Text>
+    </Entry>
+	<Entry>
+        <Ptr p="7486292"/>
+        <Text>A Special Forces TRAT member. \nA soldier with a tragic fate.</Text>
+    </Entry>
+	<Entry>
+        <Ptr p="7486312"/>
+        <Text>An intelligence agent of S.O.R.T. \nA hi-tech specialist.</Text>
+    </Entry>
+	<Entry>
+        <Ptr p="7486332"/>
+        <Text>An intelligence agent of S.O.R.T. \nA man with a heart made of \nstone.</Text>
+    </Entry>
+	<Entry>
+        <Ptr p="7486352"/>
+        <Text>An escort tank used for \nprotection when transporting \nvaluable recsources.</Text>
+    </Entry>
+	<Entry>
+        <Ptr p="7486372"/>
+        <Text>A quick and tricky carnivorous \ndino.  Attacks its enemy with its \nkick and poison spit.</Text>
+    </Entry>
+	<Entry>
+        <Ptr p="7486392"/>
+        <Text>A speedy hunter of the jungle. \nIt has many ways to attack its \nprey.</Text>
+    </Entry>
+	<Entry>
+        <Ptr p="7486412"/>
+        <Text>A four legged reptile with rock \nhard jaws and armor like skin. \nIts armor will withstand even fire.</Text>
+    </Entry>
+	<Entry>
+        <Ptr p="7486432"/>
+        <Text>A cold blooded beast with size \nand agility to its advantage. \nIts footwork will corner its prey.</Text>
+    </Entry>
+	<Entry>
+        <Ptr p="7486452"/>
+        <Text>Undisputed king of the jungle. \nRanks first in the heirarchy of \nthe food chain.</Text>
+    </Entry>
+	<Entry>
+        <Ptr p="7486472"/>
+        <Text>Ususally a tame herbivorous \ndinosaur.  Its running charge will \ndestroy everything in its way.</Text>
+    </Entry>
+	<Entry>
+        <Ptr p="7486492"/>
+        <Text>Absolutely the weakest of the \ndinos.  When in a jam, it may \ncall his friends for help.</Text>
+    </Entry>
+</Strings>

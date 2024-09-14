@@ -1,0 +1,18 @@
+﻿<Strings>
+    <Text p="0">This is the tank Dylan was \ndriving. {pause}{clear}It is smashed by the gate.{pause}</Text>
+    <Text p="2">This truck must have come from \nthe industrial area underneath {pause}{clear}the highway. It appears that \nthere was an accident during {pause}{clear}transportation. The contents of \nthe cargo is mostly firearms and {pause}{clear}other weapons. Everything has \nbeen smashed by the factory {pause}{clear}chimney. There's nothing left \nthat looks usable.{pause}</Text>
+    <Text p="4">There are many arms factories \nunderneath this highway. {pause}{clear}The chimney is from one of \nthose factories. It has {pause}{clear}completely smashed the truck.{pause}</Text>
+    <Text p="6">The highway has become a dead \nend. {pause}{clear}From the edge, it's obvious that \nthere were frequent movements {pause}{clear}of the earth's surface in this \narea.{pause}</Text>
+    <Text p="54">{pic}{delay 28698}</Text>
+    <Text p="55">{pic}{delay 28733}{clear}{pic}{delay 28765}</Text>
+    <Text p="56">{pic}{delay 28692}</Text>
+    <Text p="59">{pic}{delay 28728}{clear}{pic}{delay 28739}</Text>
+    <Text p="62">{pic}{delay 28699}</Text>
+    <Text p="63">{pic}{delay 28821}{clear}{pic}{delay 28729}</Text>
+    <Text p="66">{pic}{delay 28752}{clear}{pic}{delay 28751}</Text>
+    <Text p="67">{pic}{delay 28826}</Text>
+    <Text p="70">{pic}{delay 28711}</Text>
+    <Text p="71">{pic}{delay 28742}{clear}{pic}{delay 28763}</Text>
+    <Text p="74">{pic}{delay 28742}{clear}{pic}{delay 28718}</Text>
+    <Text p="77">{pic}{delay 28740}{clear}{pic}{delay 28759}{clear}{pic}{delay 28697}</Text>
+</Strings>

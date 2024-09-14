@@ -1,0 +1,4 @@
+﻿<Strings>
+    <Text p="6">The door has been unlocked.{pause}</Text>
+    <Text p="87">This area is full of poisonous \nspores emitted by the poisonous {pause}{clear}plants. If inhaled, they could be \nlife threatening.{pause}</Text>
+</Strings>

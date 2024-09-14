@@ -1,0 +1,9 @@
+﻿<Strings>
+    <Text p="1">There is a sign which prohibits \nentry. {pause}{clear}It reads, “Temporary the area is \nclosed due to the maintenance {pause}{clear}check of the 3rd Energy \nReactor”.{pause}</Text>
+    <Text p="2">The aqueduct shutters which \nlead to the 3rd Energy Reactor {pause}{clear}are already open.{pause}</Text>
+    <Text p="9">It's a control terminal for \noperating the aqueduct shutters {pause}{clear}which lead to the 3rd Energy \nGenerator.{pause}{clear}Will you operate it?{0x3000}</Text>
+    <Text p="10">To operate the control panel you \nneed the shutter control plug.{pause}</Text>
+    <Text p="12">Will you operate it?{0x3000}</Text>
+    <Text p="17">The aqueduct shutters which \nlead to the 3rd Energy Reactor {pause}{clear}are already open.{pause}</Text>
+    <Text p="18">“Machine cooling aqueducts” \nThe shutters are open.{pause}</Text>
+</Strings>

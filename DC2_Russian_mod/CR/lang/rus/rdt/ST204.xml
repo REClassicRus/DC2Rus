@@ -1,0 +1,10 @@
+﻿<Strings>
+    <Text p="0">The head of this room probably \nsat in this seat. Many terminals {pause}{clear}are set here, Probably used for \nreceiving reports from the other {pause}{clear}facilities.{pause}</Text>
+    <Text p="1">It's a pile of reports and records. \nMost of them seem refer to {pause}{clear}damage caused by dinosaurs. \nOne of the reports mentions {pause}{clear}about an annihilation plan of the \ndinosaurs in the vicinity. {pause}{clear}According to the report, the plan \nended in disaster...{pause}</Text>
+    <Text p="2">Documents are scattered. \nAccording to the soldiers' death {pause}{clear}records, the number of soldiers \nhas decreased to a third in just {pause}{clear}one year.{pause}</Text>
+    <Text p="3">The status of the Security \nSystem of the facility is shown {pause}{clear}on a big screen. Most of the \nlines have been cut. It doesn't {pause}{clear}seem to be functioning normally.{pause}</Text>
+    <Text p="4">It's a super computer which \ncontrols all the security {pause}{clear}programs.{pause}</Text>
+    <Text p="51">It's a system which manages all \nthe key plates. Only one key {pause}{clear}plate can be removed at a time \nfrom this system.{pause}</Text>
+    <Text p="52">It's a system which manages all \nthe key plates. All the keys are {pause}{clear}in place.{pause}{clear}Will you push the button of the \nsystem?{0x3000}</Text>
+    <Text p="53">What color button will you press?\n{0x8000}Red {0x8001}Yel {0x8002}Grn {0x8003}Bl {0x8004}White {0x8005}Pur{0x3001}</Text>
+</Strings>

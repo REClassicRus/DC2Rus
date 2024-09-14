@@ -1,0 +1,26 @@
+﻿<Strings>
+    <Text p="8">It is a power terminal for \nsomething. Currently, it's not {pause}{clear}supplying power to anything.{pause}</Text>
+    <Text p="9">It is a power terminal for \nsomething. Currently, it's not {pause}{clear}supplying power to anything.{pause}</Text>
+    <Text p="10">It is a power terminal for \nsomething. Currently, it's not {pause}{clear}supplying power to anything.{pause}</Text>
+    <Text p="11">It is a power terminal for \nsomething. Currently, it's not {pause}{clear}supplying power to anything.{pause}</Text>
+    <Text p="12">It is a power terminal for \nsomething. Currently, it's not {pause}{clear}supplying power to anything.{pause}</Text>
+    <Text p="24">There is no need to operate it \nanymore.{pause}</Text>
+    <Text p="25">There is no need to operate it \nanymore.{pause}</Text>
+    <Text p="26">There is no need to operate it \nanymore.{pause}</Text>
+    <Text p="27">There is no need to operate it \nanymore.{pause}</Text>
+    <Text p="28">There is no need to operate it \nanymore.{pause}</Text>
+    <Text p="30">It is a touch-panel power terminal.{pause}{clear}Will you operate the panel?{0x3000}</Text>
+    <Text p="31">{pic}There is no need to operate it \nanynmore.{delay 28732}</Text>
+    <Text p="32">There is no need to operate it \nanymore.{pause}</Text>
+    <Text p="33">It is a touch-panel power terminal.{pause}{clear}Will you operate the panel?{0x3000}</Text>
+    <Text p="34">{pic}There is no need to operate it \nanynmore.{delay 28732}</Text>
+    <Text p="35">There is no need to operate it \nanymore.{pause}</Text>
+    <Text p="37">It is a touch-panel power terminal.{pause}{clear}Will you operate the panel?{0x3000}</Text>
+    <Text p="38">{pic}There is no need to operate it \nanynmore.{delay 28732}</Text>
+    <Text p="39">There is no need to operate it \nanymore.{pause}</Text>
+    <Text p="40">It is a touch-panel power terminal.{pause}{clear}Will you operate the panel?{0x3000}</Text>
+    <Text p="41">{pic}There is no need to operate it \nanynmore.{delay 28732}</Text>
+    <Text p="42">There is no need to operate it \nanymore.{pause}</Text>
+    <Text p="44">It's a control terminal for the \nLaser Shutter. Currently all four {pause}{clear}are active.{pause}{clear}Will you operate the control \npanel?{0x3000}</Text>
+    <Text p="45">It is a control terminal for the \nLaser Shutter. Currently, four {pause}{clear}back up locks are active.{pause}</Text>
+</Strings>

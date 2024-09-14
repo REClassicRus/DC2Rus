@@ -1,0 +1,14 @@
+﻿<Strings>
+    <Text p="8">The electronic lock is unlocked.{pause}</Text>
+    <Text p="10">It's electronically locked.{pause}{clear}To unlock, you need the 3rd \nEnergy Facility Key Card.{pause}</Text>
+    <Text p="12">It's electronically locked.{pause}{clear}To unlock, you need the 3rd \nEnergy Facility Key Card.{pause}</Text>
+    <Text p="16">There is a tool box with repair \ntools inside.{pause}{clear}But there isn't a tool that's of \nany use.{pause}</Text>
+    <Text p="18">There is a small boiler.{pause}{clear}It must have been built after \ntheir arrival to this world.{pause}</Text>
+    <Text p="20">Must have been attacked by the \ndinosaurs while getting supplies.{pause}</Text>
+    <Text p="22">Must have died in the past few \ndays.{pause}{clear}His mid-section looks like it has \nbeen blown away.{pause}{clear}It appears that the winged beasts \nhad found him.{pause}</Text>
+    <Text p="26">There's an ID card inside his \nshirt pocket.{pause}</Text>
+    <Text p="28">There's a dead body. In his hand \nis a gun. The bullets have all {pause}{clear}been used up. There are many \nwounds which appear to have {pause}{clear}been pecked by beaks.{pause}</Text>
+    <Text p="32">The electronic lock is unlocked.{pause}</Text>
+    <Text p="50">{delay 28677}The Mission Data has been \nupdated.{pause}</Text>
+    <Text p="51">There's something underneath. \nYou've found a new DINO FILE.{pause}</Text>
+</Strings>

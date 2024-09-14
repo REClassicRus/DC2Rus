@@ -1,0 +1,7 @@
+﻿<Strings>
+    <Text p="5">{pic}{delay 28708}</Text>
+    <Text p="10">{pic}{delay 28702}{clear}{pic}{delay 28702}</Text>
+    <Text p="15">{pic}{delay 28709}</Text>
+    <Text p="18">{pic}{delay 28792}</Text>
+    <Text p="27">{pic}{delay 28704}{clear}{pic}{delay 28700}</Text>
+</Strings>

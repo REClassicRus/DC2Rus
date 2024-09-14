@@ -1,0 +1,9 @@
+﻿<Strings>
+    <Text p="9">It's a shutter to close the \nwaterways.{pause}{clear}You can hear the low sound of \nthe machines.{pause}{clear}It doesn't seem like the \nmachines are stopping.{pause}</Text>
+    <Text p="11">The pipe of the oxygen supply \nhas been cut or chewed off {pause}{clear}from the back of his diving suit.{pause}</Text>
+    <Text p="13">Will you operate the elevator?{0x3000}</Text>
+    <Text p="14">Will you operate the elevator?{0x3000}</Text>
+    <Text p="15">Will you operate the elevator?{0x3000}</Text>
+    <Text p="16">Will you operate the elevator?{0x3000}</Text>
+    <Text p="18">You have found a new DINO FILE.{pause}</Text>
+</Strings>

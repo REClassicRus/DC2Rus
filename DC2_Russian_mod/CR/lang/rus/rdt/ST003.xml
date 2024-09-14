@@ -1,0 +1,36 @@
+﻿<Strings>
+    <Text p="1">It is the door which leads to the \nTimegate. It is currently locked.{pause}</Text>
+    <Text p="8">It's an automatic pilot for flying \nthe vehicle. There is no {pause}{clear}destination programmed. It won't \nstart until a destination has {pause}{clear}been entered.{pause}</Text>
+    <Text p="13">{delay 28692}The mission data has been \nupdated.{pause}</Text>
+    <Text p="14">{pic}The ship has arrived at Edward \nCity.{delay 28732}</Text>
+    <Text p="15">{pic}The ship has arrived at the \njungle area.{delay 28732}</Text>
+    <Text p="16">{pic}The ship has arrived at the 3rd \nEnergy Facility.{delay 28732}</Text>
+    <Text p="27"></Text>
+    <Text p="30"></Text>
+    <Text p="33"></Text>
+    <Text p="38"></Text>
+    <Text p="40"></Text>
+    <Text p="48"></Text>
+    <Text p="51"></Text>
+    <Text p="54"></Text>
+    <Text p="61"></Text>
+    <Text p="64"></Text>
+    <Text p="67">{delay 28692}The mission data has been \nupdated.{pause}</Text>
+    <Text p="78"></Text>
+    <Text p="79"></Text>
+    <Text p="82"></Text>
+    <Text p="83"></Text>
+    <Text p="84"></Text>
+    <Text p="86"></Text>
+    <Text p="89"></Text>
+    <Text p="90"></Text>
+    <Text p="91">{pic}Dylan gave the starter battery to \nRegina.{delay 28717}</Text>
+    <Text p="93">{delay 28692}The mission data has been \nupdated.{pause}</Text>
+    <Text p="118"></Text>
+    <Text p="120"></Text>
+    <Text p="128"></Text>
+    <Text p="129">Concentrating on piloting the \nvehicle.{pause}</Text>
+    <Text p="145">Her eyes are trying to tell him \nsomething.{pause}</Text>
+    <Text p="154"> </Text>
+    <Text p="155">Probably remembering things \nabout his sister. He seems to {pause}{clear}have a grim look.{pause}</Text>
+</Strings>

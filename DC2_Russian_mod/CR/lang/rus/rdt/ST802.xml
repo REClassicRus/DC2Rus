@@ -1,0 +1,5 @@
+﻿<Strings>
+    <Text p="4">It's a small forklift.{pause}{clear}For some reason it hasn't been \nused very much.{pause}</Text>
+    <Text p="6">With some tremendous force it \nhas been smashed.{pause}</Text>
+    <Text p="8">There is still gasoline inside.\nThe tires have weathered away {pause}{clear}from not being used for a very \nlong time.{pause}</Text>
+</Strings>

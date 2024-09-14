@@ -1,0 +1,22 @@
+﻿<Strings>
+    <Text p="1">It's a poor barricade made from \njust about everything they could {pause}{clear}gather. It probably didn't even \nhelp them sleep better at night.{pause}</Text>
+    <Text p="3">There are signs of humans being \neaten as well as raptors.{pause}</Text>
+    <Text p="5">This is the helicopter that David \nwas piloting. {pause}{clear}It probably ran out of fuel and \ncrash-landed.{pause}</Text>
+    <Text p="7">This gate's propably used to \nmove out jeeps and other large {pause}{clear}vehicles. The gate won't operate \nsince it has no power source.{pause}</Text>
+    <Text p="9">“From Candy to Ammo, the last \nbiggest sale ever!”{pause}</Text>
+    <Text p="11">They must have been using the \ndamaged power-line tower as a {pause}{clear}guard tower.{pause}</Text>
+    <Text p="13">It's a Drug Store sign. {pause}{clear}It has been repainted several \ntimes. Probably by the owner.{pause}</Text>
+    <Text p="15">It's a small vehicle. \nAll it needs is fuel to run. {pause}{clear}It's in good condition.{pause}</Text>
+    <Text p="21">There is something under the \ndead body. {pause}{clear}You have found a new DINO FILE.{pause}</Text>
+    <Text p="28">{pic}{delay 28742}{clear}{pic}{delay 28720}</Text>
+    <Text p="29">{pic}{delay 28712}</Text>
+    <Text p="30">{pic}{delay 28729}</Text>
+    <Text p="32">{pic}{delay 28792}</Text>
+    <Text p="36">{pic}{delay 28782}</Text>
+    <Text p="37">{pic}{delay 28750}</Text>
+    <Text p="40">{pic}{delay 28733}{clear}{pic}{delay 28767}</Text>
+    <Text p="44">{pic}{delay 28752}</Text>
+    <Text p="45">{pic}{delay 28750}{clear}{pic}{delay 28697}</Text>
+    <Text p="46">{pic}{delay 28705}</Text>
+    <Text p="48">{delay 28692}The Mission Data has been \nupdated.{pause}</Text>
+</Strings>

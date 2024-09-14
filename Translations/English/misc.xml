@@ -1,0 +1,52 @@
+﻿<Strings>
+	<Text></Text>
+	<Text>.</Text>
+	<Text>?</Text>
+	<Text>Yes</Text>
+	<Text>No</Text>
+    <Text>Will you add </Text>
+    <Text>\nto Colosseum?</Text>
+	<Text>Regina</Text>
+	<Text>Dylan</Text>
+	<Text>Rick</Text>
+	<Text>Gail</Text>
+	<Text>Tank</Text>
+	<Text>Oviraptor</Text>
+	<Text>Velociraptor</Text>
+	<Text>Inostrancevia</Text>
+	<Text>Allosaur</Text>
+	<Text>Tyrannosaurus Rex</Text>
+	<Text>Triceratops</Text>
+	<Text>Compsognathus</Text>
+	<!-- option screen -->
+	<Text>Resolution</Text>
+	<Text>Antialiasing</Text>
+	<Text>Filtering</Text>
+	<Text>Motion trail</Text>
+	<Text>SFX / dialog volume</Text>
+	<Text>Music / movie volume</Text>
+	<Text>Side stepping</Text>
+	<Text>Target lock</Text>
+	<Text>Rebind controls</Text>
+	<Text>Forward</Text>
+	<Text>Backward</Text>
+	<Text>Turn left</Text>
+	<Text>Turn right</Text>
+	<Text>Change aim target</Text>
+	<Text>Aim</Text>
+	<Text>Turn around</Text>
+	<Text>Status screen</Text>
+	<Text>Cancel</Text>
+	<Text>Confirm/fire</Text>
+	<Text>Sub weapon</Text>
+	<Text>Map screen</Text>
+	<Text>Pause/start</Text>
+	<Text>Keyboard</Text>
+	<Text>Pad</Text>
+	<Text>Confirm changes</Text>
+	<Text>On</Text>
+	<Text>Off</Text>
+	<Text>SMAA</Text>
+	<Text>None</Text>
+	<Text>Full screen</Text>
+</Strings>

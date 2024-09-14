@@ -1,0 +1,7 @@
+﻿<Strings>
+    <Text p="2">It's shut down.\nIt won't operate.{pause}</Text>
+    <Text p="3">It's a panel which displays the \npower supply to the elevator. {pause}{clear}Currently, the power is being \nsupplied normally.{pause}</Text>
+    <Text p="7">The shutter is dented. Something \nmust have hit it hard.{pause}</Text>
+    <Text p="9">It's the gate for the elevator. \nThe gate is designed to open {pause}{clear}after the elevator has arrived at \nthe underwater facility.{pause}</Text>
+    <Text p="15"></Text>
+</Strings>

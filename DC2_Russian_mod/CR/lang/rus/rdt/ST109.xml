@@ -1,0 +1,5 @@
+﻿<Strings>
+    <Text p="4">It's a water reservoir tank.{pause}{clear}Looks like the tank is already \nempty.{pause}</Text>
+    <Text p="7">A section of the throat has been \ngouged out by something. It {pause}{clear}appears that small dinosaurs \nhave taken bits and pieces of {pause}{clear}the lower body for lunch.{pause}</Text>
+    <Text p="8">You have found a new DINO FILE.{pause}</Text>
+</Strings>

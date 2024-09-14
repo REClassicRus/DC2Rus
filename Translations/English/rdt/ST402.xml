@@ -1,0 +1,37 @@
+﻿<Strings>
+    <Text p="1">The machine has been damaged \nby the large dinosaur intrusion.{pause}{clear}It can't be operated.{pause}</Text>
+    <Text p="12">the bridge is shut \ndown at the moment.{pause}{clear}The program to restart the power \nis displayed on the screen.{pause}{clear}Will you restart the program?{0x3000}</Text>
+    <Text p="16">the bridge is shut \ndown at the moment.{pause}{clear}The program to restart the power \nis displayed on the screen.{pause}{clear}Will you restart the program?{0x3000}</Text>
+    <Text p="18">It's the control terminal for the \naccess route.{pause}{clear}There is no need to operate it \nnow.{pause}</Text>
+    <Text p="21">It is a control terminal.{pause}{clear}The access route to the missile \nlauncher has been closed due to {pause}{clear}the emergency interception \nmode.{pause}</Text>
+    <Text p="54">the bridge is shut \ndown at the moment.{pause}{clear}The program to restart the power \nis displayed on the screen.{pause}{clear}Will you restart the program?{0x3000}</Text>
+    <Text p="56">the bridge is shut \ndown at the moment.{pause}{clear}The program to restart the power \nis displayed on the screen.{pause}{clear}Will you restart the program?{0x3000}</Text>
+    <Text p="69">the bridge is shut \ndown at the moment.{pause}{clear}The program to restart the power \nis displayed on the screen.{pause}{clear}Will you restart the program?{0x3000}</Text>
+    <Text p="71">the bridge is shut \ndown at the moment.{pause}{clear}The program to restart the power \nis displayed on the screen.{pause}{clear}Will you restart the program?{0x3000}</Text>
+    <Text p="75"></Text>
+    <Text p="78">It is a control terminal.{pause}{clear}The access route to the missile \nlauncher has been closed due to {pause}{clear}the emergency interception \nmode.{pause}</Text>
+    <Text p="80">You have ten minutes to disarm \nthe emergency interception mode {pause}{clear}of the missile warhead. The key \nto beating the giant dinosaur is {pause}{clear}to use the flammable gas \nenergy injection terminal on the {pause}{clear}walk way.{pause}</Text>
+    <Text p="81"></Text>
+    <Text p="86"></Text>
+    <Text p="90">the bridge is shut \ndown at the moment.{pause}{clear}The program to restart the power \nis displayed on the screen.{pause}{clear}Will you restart the program?{0x3000}</Text>
+    <Text p="92">the bridge is shut \ndown at the moment.{pause}{clear}The program to restart the power \nis displayed on the screen.{pause}{clear}Will you restart the program?{0x3000}</Text>
+    <Text p="94">the bridge is shut \ndown at the moment.{pause}{clear}The program to restart the power \nis displayed on the screen.{pause}{clear}Will you restart the program?{0x3000}</Text>
+    <Text p="98"></Text>
+    <Text p="101">It's the control terminal for the \naccess route.{pause}{clear}There is no need to operate it \nnow.{pause}</Text>
+    <Text p="105">Will you operate the elevator?{0x3000}</Text>
+    <Text p="106">Will you operate the elevator?{0x3000}</Text>
+    <Text p="107">It's refueling the gas energy.{pause}{clear}Need to wait until refueling is \ncomplete.{pause}</Text>
+    <Text p="108">It is a device to fuel the missile \nwith the gas energy.{pause}{clear}Currently, the plug to the missile \nis removed.{pause}{clear}Will you press the switch?{0x3000}</Text>
+    <Text p="109">It's refueling the gas energy.{pause}{clear}Need to wait until refueling is \ncomplete.{pause}</Text>
+    <Text p="110">It is a device to fuel the missile \nwith the gas energy.{pause}{clear}Currently, the plug to the missile \nis removed.{pause}{clear}Will you press the switch?{0x3000}</Text>
+    <Text p="111">The power of the bridge is shut \ndown at the moment.{pause}{clear}The program to restart the power \nis displayed on the screen.{pause}{clear}Will you restart the program?{0x3000}</Text>
+    <Text p="112">There is no need to operate it \nanymore.{pause}</Text>
+    <Text p="114">Failed to restart power. Will you \ntry again?{0x3000}</Text>
+    <Text p="116">the bridge is shut \ndown at the moment.{pause}{clear}The program to restart the power \nis displayed on the screen.{pause}{clear}Will you restart the program?{0x3000}</Text>
+    <Text p="118">It's the warhead of the missile. \nThere is a programmable {pause}{clear}terminal. You must open the \ncover to operate it.{pause}</Text>
+    <Text p="119">It's a control terminal for the \nwarhead.{pause}{clear}You can open the cover of the \nwarhead.{pause}{clear}Will you operate the control \nterminal?{0x3000}</Text>
+    <Text p="120">There is no need to operate it \nanymore.{pause}</Text>
+    <Text p="123">The emergency interception mode \nis activated.{pause}{clear}Will you stop the program?{0x3000}</Text>
+    <Text p="124">There is no need to operate it \nanymore.{pause}</Text>
+    <Text p="126">The emergency interception mode \nhas been deactivated.{pause}</Text>
+</Strings>

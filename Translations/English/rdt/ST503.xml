@@ -1,0 +1,25 @@
+﻿<Strings>
+    <Text p="2">{pic}{delay 28773}{clear}{pic}{delay 28718}</Text>
+    <Text p="5">There is no power.  \nIt won't operate.{pause}</Text>
+    <Text p="6">The Anti-Satellite is now ready. \nYou can operate the {pause}{clear}Anti-Satellite from the main \ncontrol panel.{pause}</Text>
+    <Text p="7">It's the emergency control \nterminal to connect the {pause}{clear}communication line to the \nAnti-Satellite.{pause}{clear}Will you operate the control \nterminal?{0x3000}</Text>
+    <Text p="8">{pic}{delay 28754}</Text>
+    <Text p="9">The communication line has \nalready been connected. {pause}{clear}You still need to set the target.{pause}</Text>
+    <Text p="10">There is no power.  \nIt won't operate.{pause}</Text>
+    <Text p="11">The target has been set. {pause}{clear}Use the main control panel to \noperate the Anti-Satellite.{pause}</Text>
+    <Text p="12">It is the control panel to set the \ntarget. Target has been set for {pause}{clear}the gigantic dinosaur.{pause}{clear}Will you send the data to the \nsatellite?{0x3000}</Text>
+    <Text p="13">{pic}{delay 28721}</Text>
+    <Text p="14">The communication line with the \nAnti-Satellite is not connected. {pause}{clear}The target data cannot be sent to \nthe satellite.{pause}</Text>
+    <Text p="15">There is no power. \nIt won't operate.{pause}</Text>
+    <Text p="16">Will you start the Anti-Satellite?{0x3000}</Text>
+    <Text p="17">{pic}{delay 28721}</Text>
+    <Text p="18">It is the control panel to \ncommand the Anti-Satellite. {pause}{clear}To start it, you need to open the \ncommunication line and set the {pause}{clear}target.{pause}</Text>
+    <Text p="19">{pic}{delay 28870}</Text>
+    <Text p="26">{pic}{delay 28778}</Text>
+    <Text p="29">{pic}{delay 28751}</Text>
+    <Text p="30">{pic}{delay 28756}</Text>
+    <Text p="31">{pic}{delay 28706}</Text>
+    <Text p="39">{pic}{delay 28728}</Text>
+    <Text p="53">{pic}{delay 28722}</Text>
+    <Text p="115">The Emergency Defense System \nis activated and the emergency {pause}{clear}shutter is closed.{pause}</Text>
+</Strings>

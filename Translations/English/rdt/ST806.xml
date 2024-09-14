@@ -1,0 +1,5 @@
+﻿<Strings>
+    <Text p="5">It's David's mark.{pause}</Text>
+    <Text p="7">It's David's mark.{pause}</Text>
+    <Text p="14">There is a rock blocking the path. \nDifferent from the other rocks, {pause}{clear}it's a calcareous rock. You can \ndestroy it with the Chainmine.{pause}</Text>
+</Strings>

@@ -1,0 +1,19 @@
+﻿<Strings>
+    <Text p="8">The electronic lock is activated. {pause}{clear}To unlock it you need the \nResearch Facility Key Card.{pause}</Text>
+    <Text p="10">The electronic lock is activated. {pause}{clear}To unlock it you need the \nResearch Facility Key Card.{pause}</Text>
+    <Text p="12">The ventilation hole is open. You \ncannot operate it from this side.{pause}</Text>
+    <Text p="14">The ventilation hole is closed. {pause}{clear}You cannot operate it from this \nside.{pause}</Text>
+    <Text p="17">The ventilation hole is open. You \ncannot operate it from this side.{pause}</Text>
+    <Text p="19">The ventilation hole is closed. {pause}{clear}You cannot operate it from this \nside.{pause}</Text>
+    <Text p="22">The ventilation hole is open. You \ncannot operate it from this side.{pause}</Text>
+    <Text p="24">The ventilation hole is closed. {pause}{clear}You cannot operate it from this \nside.{pause}</Text>
+    <Text p="40">The ivy has found its way in \nthrough the hole made by the {pause}{clear}dinosaurs.{pause}</Text>
+    <Text p="42">The ivy has found its way in \nthrough the hole made by the {pause}{clear}dinosaurs.{pause}</Text>
+    <Text p="44">The ivy has found its way in \nthrough the hole made by the {pause}{clear}dinosaurs.{pause}</Text>
+    <Text p="46">The electronic lock has already \nbeen deactivated.{pause}</Text>
+    <Text p="48">The electronic lock has already \nbeen deactivated.{pause}</Text>
+    <Text p="63">{pic}{delay 28712}</Text>
+    <Text p="64">{pic}The key card has been stolen. \nYou must get it back.{pause}</Text>
+    <Text p="65">The electronic lock is activated. {pause}{clear}To unlock it you need the \nResearch Facility Key Card.{pause}</Text>
+    <Text p="73">{delay 28692}The mission data has been \nupdated.{pause}</Text>
+</Strings>

@@ -1,0 +1,22 @@
+﻿<Strings>
+    <Text p="7">The power supply has been \nshutdown. It won't operate.{pause}</Text>
+    <Text p="9">The power supply has been \nshutdown. It won't operate.{pause}</Text>
+    <Text p="11">To operate this control terminal \nyou need the mechanic's ID {pause}{clear}card.{pause}</Text>
+    <Text p="15">There is no response. To use \nthis elevator, you need to {pause}{clear}operate the control terminal next \nto the elevator.{pause}</Text>
+    <Text p="17">The elevator's confirmation light \nis lit.{pause}</Text>
+    <Text p="21">They left a small communication \ndevice on the desk.{pause}{clear}They must have used it to \ncommunicate with the other {pause}{clear}facilities.{pause}</Text>
+    <Text p="23">Displayed on the screen of the \nterminal is the total amount of {pause}{clear}energy generated from this \nfacility. They probably were {pause}{clear}planning to distribute the power \nusing the computer.{pause}</Text>
+    <Text p="25">It's a control terminal to check \nthe operating status of the {pause}{clear}electrical generation of this \nfacility. It appear as though they {pause}{clear}only have one generator to \nsupport the whole facility.{pause}</Text>
+    <Text p="27">It's a control terminal to check \nthe operating status of the {pause}{clear}electrical generation of this \nfacility. It appear as though they {pause}{clear}only have one generator to \nsupport the whole facility.{pause}</Text>
+    <Text p="29">It's a control terminal to check \nthe operating status of the {pause}{clear}electrical generation of this \nfacility. It appear as though they {pause}{clear}only have one generator to \nsupport the whole facility.{pause}</Text>
+    <Text p="31">It's a control terminal to check \nthe operating status of the {pause}{clear}electrical generation of this \nfacility. It appear as though they {pause}{clear}only have one generator to \nsupport the whole facility.{pause}</Text>
+    <Text p="50">Enter the 4 digit security code.{pause}{clear}Enter the first digit.\n{0x8000}0 {0x8001}1 {0x8002}2 {0x8003}3 {0x8004}4 {0x8005}5{0x3001}</Text>
+    <Text p="51">Enter the second digit.\n{0x8000}0 {0x8001}1 {0x8002}2 {0x8003}3 {0x8004}4 {0x8005}5{0x3001}</Text>
+    <Text p="52">Enter the third digit.\n{0x8000}0 {0x8001}1 {0x8002}2 {0x8003}3 {0x8004}4 {0x8005}5{0x3001}</Text>
+    <Text p="53">Enter the fourth digit.\n{0x8000}0 {0x8001}1 {0x8002}2 {0x8003}3 {0x8004}4 {0x8005}5{0x3001}</Text>
+    <Text p="54">Security code confirmed. You can \noperate the elevator.{pause}</Text>
+    <Text p="55">The elevator's confirmation light \nis lit.{pause}</Text>
+    <Text p="57">Incorrect Code. Will you enter the \ncode again?{0x3000}</Text>
+    <Text p="75">It leads to the underwater \nfacility.{pause}{clear}Will you operate the elevator?{0x3000}</Text>
+    <Text p="80">There's somthing underneath. \nYou've found a new DINO FILE.{pause}</Text>
+</Strings>

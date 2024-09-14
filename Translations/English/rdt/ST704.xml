@@ -1,0 +1,5 @@
+﻿<Strings>
+    <Text p="5">On the wall is a terminal which \noffers Extinct Point Service.{pause}{clear}The keyboard is gone. It could be \nthat a swimming reptile {pause}{clear}destroyed it.{pause}</Text>
+    <Text p="6">A section of the column has \ncracked making it weak. With a {pause}{clear}weapon with a little fire power \nyou'll probably be able to {pause}{clear}destroy it.{pause}</Text>
+    <Text p="17">{delay 28677}{pic}A section of the column has \ncracked making it weak.{delay 28732}{clear}{delay 28677}{pic}With a weapon with a little fire \npower you'll probably be able {delay 28732}{clear}{delay 28677}{pic}to destroy it.{delay 28702}{clear}{delay 28682}</Text>
+</Strings>

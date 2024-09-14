@@ -1,0 +1,7 @@
+﻿<Strings>
+    <Text p="4">This is a big tree that the T-REX \nstepped over.{pause}{clear}It's too big for a human to get \npast.{pause}</Text>
+    <Text p="8">The cargo container that the \nT-REX hit is blocking the gate. {pause}{clear}Escaping out through this gate \nlooks impossible at this time.{pause}</Text>
+    <Text p="30"></Text>
+    <Text p="32">The cargo container that the \nT-REX hit is blocking the gate. {pause}{clear}Escaping out through this gate \nlooks impossible at this time.{pause}</Text>
+    <Text p="91">It's going to take more than just \na regular weapon to kill the {delay 28752}{clear}T-REX. Better to find an escape \nroute quickly.{delay 28732}</Text>
+</Strings>

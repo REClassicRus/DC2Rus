@@ -1,0 +1,11 @@
+﻿<Strings>
+    <Text p="3">The door is locked. {pause}{clear}Only authorized personnel can \naccess the lock.  {pause}{clear}It is impossible to unlock.{pause}</Text>
+    <Text p="4">Shouldn't leave the girl behind.{pause}</Text>
+    <Text p="12">The First Commemoration \nMonument, Dr. Kirk. {pause}{clear}In comemmoration of the \nestablishment of the Third {pause}{clear}Energy Theory.{pause}</Text>
+    <Text p="13">The Second Commemoration \nMonument, Republic of Bolzinia {pause}{clear}In comemmoration of the \ngovernment who changed clean {pause}{clear}energy to a weapon.{pause}</Text>
+    <Text p="14">The Third Commemoration \nMonument, Spacetime Meteorite {pause}{clear}In comemmoration of the \nOverdrive, the end of the {pause}{clear}Cretaceous.{pause}</Text>
+    <Text p="15">The Fourth Comemmoration \nMonument, Timegate {pause}{clear}In comemmoration of the \ntransformation from weapon to {pause}{clear}the Timegate.{pause}</Text>
+    <Text p="16">The Fifth Comemmoration \nMonument, Paradise {pause}{clear}In comemmoration of \nestablishment of the same {pause}{clear}enviroment as the late \nCretaceous.{pause}</Text>
+    <Text p="17">The Last Comemmoration \nMonument, Noah's Ark {pause}{clear}In comemmoration of the human \nrace who came to this world and {pause}{clear}created a “Paradise”.{pause}</Text>
+    <Text p="28">The door is locked. {pause}{clear}Only authorized personnel can \naccess the lock.  {pause}{clear}It is impossible to unlock.{pause}</Text>
+</Strings>

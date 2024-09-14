@@ -1,0 +1,6 @@
+﻿<Strings>
+    <Text p="6">On the dead body, there are bite \nmarks everywhere. It must have {pause}{clear}been attacked by a whole army \nof them.{pause}</Text>
+    <Text p="7">This used to be the open area of \nthe main entrance of the facility. {pause}{clear}But now it is being swallowed \nby the jungle vegetation.{pause}</Text>
+    <Text p="54">The electronic lock is activated. \nTo unlock it you need the {pause}{clear}Research Facility Key Card.{pause}</Text>
+    <Text p="55">The electronic lock has already \nbeen deactivated.{pause}</Text>
+</Strings>

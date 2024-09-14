@@ -1,0 +1,10 @@
+﻿<Strings>
+    <Text p="10">There is a jungle on the other \nside of the bridge. {pause}{clear}Behind the jungle there is a \nMissile Silo.{pause}</Text>
+    <Text p="12">It's a gas energy tank of some \nsort. It is already empty.{pause}</Text>
+    <Text p="14">A weathered cloth is covered on \nthe caster. {pause}{clear}Underneath the cloth are \nexperimental medicines.{pause}</Text>
+    <Text p="16">It's an oversized ventilation \nsystem. A dinosaur probably the {pause}{clear}size of a T-Rex must have \nsmashed it.{pause}</Text>
+    <Text p="18">You can see the main gate. {pause}{clear}The sign reads: \n“3rd Energy Research Facility”{pause}{clear}The jungle is too thick to get \nacross to the other side.{pause}</Text>
+    <Text p="43">{pic}{delay 28698}</Text>
+    <Text p="65">{pic}{delay 28743}</Text>
+    <Text p="77">{pic}{delay 28715}</Text>
+</Strings>

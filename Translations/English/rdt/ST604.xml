@@ -1,0 +1,8 @@
+﻿<Strings>
+    <Text p="4">It's a water storage tank used \nfor the analysis of water quality.{pause}</Text>
+    <Text p="6">It's a large fuel tank.  {pause}{clear}Probably used for fueling the \nboat at the dock.{pause}</Text>
+    <Text p="12">It's a box for storing small repair \ntools. {pause}{clear}You need the key to open this \nbox.{pause}</Text>
+    <Text p="14">There is no need to open it.{pause}</Text>
+    <Text p="16">It's the control for operating the \nfuel tank. {pause}{clear}The fuel meter is reading zero.  \nThere's no need to operate it.{pause}</Text>
+    <Text p="43">There is no need to open it.{pause}</Text>
+</Strings>

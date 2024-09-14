@@ -1,0 +1,11 @@
+﻿<Strings>
+    <Text p="4">On the other side of the broken \nglass is a small laboratory.{pause}{clear}The vegetation has filled up the \nroom and it's impossible to go {pause}{clear}inside.{pause}</Text>
+    <Text p="5">The capsule has been broken and \nthere are stains of the {pause}{clear}preservation liquid on the floor. \nThe capsule was probably {pause}{clear}cracked by the ivy wrapping \ntightly around the it.{pause}</Text>
+    <Text p="6">The capsule has been broken and \nthere are stains of the {pause}{clear}preservation liquid on the floor. \nThe capsule was probably {pause}{clear}cracked by the ivy wrapping \ntightly around the it.{pause}</Text>
+    <Text p="7">The capsule has been broken and \nthere are stains of the {pause}{clear}preservation liquid on the floor. \nThe capsule was probably {pause}{clear}cracked by the ivy wrapping \ntightly around the it.{pause}</Text>
+    <Text p="8">In the preservation liquid, there \nseems to be a body of a young {pause}{clear}man.{pause}</Text>
+    <Text p="9">It's a device which controls the \npower for the intruments. Some {pause}{clear}intruments have been taken \napart and a few parts have been {pause}{clear}removed.{pause}</Text>
+    <Text p="10">It's a work desk for the \nresearchers. Small tools are still {pause}{clear}left on the desk.{pause}</Text>
+    <Text p="11">In the preservation liquid, there \nseems to be a body of a young {pause}{clear}man.{pause}</Text>
+    <Text p="12">{delay 28682}The mission data has been \nupdated.{pause}</Text>
+</Strings>

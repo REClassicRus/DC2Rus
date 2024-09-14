@@ -1,0 +1,8 @@
+﻿<Strings>
+    <Text p="2">It's a reception desk. It appears \nthat nobody has sat here for a {pause}{clear}very long time.{pause}</Text>
+    <Text p="3">The roof is destroyed and the \nsteel frame is bent. The door is {pause}{clear}blocked. You can't go this way.{pause}</Text>
+    <Text p="4">The 3rd Energy development \nproject symbol is on the flag.{pause}</Text>
+    <Text p="5">The 3rd Energy development \nproject symbol is on the flag.{pause}</Text>
+    <Text p="6">The 3rd Energy development \nproject symbol and the facility {pause}{clear}name is carved into it.{pause}{clear}“3rd Energy Research &amp; \nDevelopment City, Edward City, {pause}{clear}Military Facility”{pause}</Text>
+    <Text p="23">There is something on the desk \ncovered with dust.{pause}{clear}You have found a new DINO FILE.{pause}</Text>
+</Strings>

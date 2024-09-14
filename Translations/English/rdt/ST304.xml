@@ -1,0 +1,22 @@
+﻿<Strings>
+    <Text p="17">There is a bottle of medicine on \nthe bed. {pause}{clear}The inside cannot be seen with \nall the dust covering it.{pause}</Text>
+    <Text p="19">A small dead dinosaur is inside \nall dried up. {pause}{clear}The cage is locked. \nYou cannot open it.{pause}</Text>
+    <Text p="21">It's a medicine cabinet. The inside \nhas been messed with and there {pause}{clear}is nothing which appears to be \nusable.{pause}</Text>
+    <Text p="30">The captured dinosaur is inside.{pause}</Text>
+    <Text p="41">There is a bottle of medicine on \nthe bed. {pause}{clear}The inside cannot be seen with \nall the dust covering it.{pause}</Text>
+    <Text p="43">On the table are a few \nspecimens and a microscope.{pause}</Text>
+    <Text p="45">It is a folding bed.{pause}</Text>
+    <Text p="47">The jungle vegetation has \nintruded inside by forcing {pause}{clear}through the wall.{pause}</Text>
+    <Text p="49">The jungle vegetation has \nintruded inside by forcing {pause}{clear}through the wall.{pause}</Text>
+    <Text p="51">It's a terminal used by the \ndoctor. It won't power. {pause}{clear}There is no way to know what \nkind of data is stored here.{pause}</Text>
+    <Text p="53">It's a terminal used by the \ndoctor. It won't power. {pause}{clear}There is no way to know what \nkind of data is stored here.{pause}</Text>
+    <Text p="55">A dinosaur has built a nest here. \nBetter not to disturb it.{pause}</Text>
+    <Text p="57">It's a terminal to open and close \nthe ventilation hole.{pause}{clear}Will you operate the terminal?{0x3000}</Text>
+    <Text p="58">It's a terminal to open and close \nthe ventilation hole.{pause}{clear}Will you operate the terminal?{0x3000}</Text>
+    <Text p="59">It's a terminal to open and close \nthe ventilation hole.{pause}{clear}Will you operate the terminal?{0x3000}</Text>
+    <Text p="60">It's an open cage. {pause}{clear}You can use it as a trap to \ncapture small animals.{pause}</Text>
+    <Text p="61">There's something else in the \ncage. {pause}{clear}You found a new DINO FILE.{pause}</Text>
+    <Text p="62">The cage is unlocked. {pause}{clear}For some reason there is a metal \nspoon placed inside the cage.{pause}{clear}Will you open the cage?{0x3000}</Text>
+    <Text p="78">The captured dinosaur is inside.{pause}</Text>
+    <Text p="80">{delay 28692}The Mission Data has been \nupdated.{pause}</Text>
+</Strings>

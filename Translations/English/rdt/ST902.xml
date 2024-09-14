@@ -1,0 +1,8 @@
+﻿<Strings>
+    <Text p="2">It's a gate house for the living \nquarters. {pause}{clear}The vegetation has taken over \nthe insides of the building.{pause}{clear}It's impossible to go inside.{pause}</Text>
+    <Text p="4">A large tree have set roots \ninside, rupturing the concrete.  {pause}{clear}With their astonishing strength, \na jeep has been lifted up by the {pause}{clear}tree.{pause}</Text>
+    <Text p="6">The door leads to the living \nquarters. {pause}{clear}The thick branch is blocking the \ndoor.{pause}</Text>
+    <Text p="8">The door leads to the residential \narea. {pause}{clear}Inside, the roots and ivy have \ngrown all over the room.{pause}</Text>
+    <Text p="11">The door is locked. To unlock it, \nyou need the Living quarters {pause}{clear}key.{pause}</Text>
+    <Text p="14">You have unlocked the door.{pause}</Text>
+</Strings>

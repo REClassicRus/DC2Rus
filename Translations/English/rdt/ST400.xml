@@ -1,0 +1,5 @@
+﻿<Strings>
+    <Text p="2">It's a machinery which supplies \npower to the waste disposal {pause}{clear}chamber close by.{pause}</Text>
+    <Text p="4">It's a control device to operate \nthe power machinery.{pause}</Text>
+    <Text p="23">{pic}{delay 28769}</Text>
+</Strings>

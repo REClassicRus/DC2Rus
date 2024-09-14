@@ -1,0 +1,7 @@
+﻿<Strings>
+    <Text p="6">It's an oversized high-voltage \nwaste disposal system. {pause}{clear}It is capable of disposing metallic \nitems completely.{pause}</Text>
+    <Text p="8">It's a control terminal for the \nwaste disposal system. {pause}{clear}There was probably nothing to \ndispose of in this world.{pause}</Text>
+    <Text p="10">Diaries and other belongings of \nthe research staff are scattered {pause}{clear}everywhere.{pause}</Text>
+    <Text p="12">It's a shutter for bringing in the \nlarge waste.{pause}</Text>
+    <Text p="14">It's the power supply device for \nthe waste disposal system. {pause}{clear}It's securely sealed.  It's \nimpossible to operate.{pause}</Text>
+</Strings>

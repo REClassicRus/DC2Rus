@@ -1,0 +1,5 @@
+﻿<Strings>
+    <Text p="6">{pic}\n                  {delay 28732}</Text>
+    <Text p="11">{pic}                                    {delay 28772}</Text>
+    <Text p="12">{pic}                                    {delay 28752}</Text>
+</Strings>

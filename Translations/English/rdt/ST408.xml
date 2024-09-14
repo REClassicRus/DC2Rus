@@ -1,0 +1,12 @@
+﻿<Strings>
+    <Text p="3">The door is locked. {pause}{clear}Only authorized personnel can be \naccess the lock. {pause}{clear}It's impossible to unlock.{pause}</Text>
+    <Text p="5">This is the river Dylan drifted \ndown. {pause}{clear}The current is too strong to \nswim across.{pause}</Text>
+    <Text p="21">{pic}{delay 28732}</Text>
+    <Text p="22">{pic}{delay 28732}</Text>
+    <Text p="25">{pic}{delay 28732}</Text>
+    <Text p="28">{pic}{delay 28762}</Text>
+    <Text p="29">{pic}{delay 28747}</Text>
+    <Text p="31">{pic}{delay 28762}</Text>
+    <Text p="36">Protect the girl from the \ndinosaurs and get across {pause}{clear}the jungle.{pause}</Text>
+    <Text p="41">The door is locked. {pause}{clear}Only authorized personnel can be \naccess the lock. {pause}{clear}It's impossible to unlock.{pause}</Text>
+</Strings>

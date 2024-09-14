@@ -1,0 +1,17 @@
+﻿<Strings>
+    <Text p="3">It's a terminal for controlling all \nthe survaillence cameras in the {pause}{clear}facility.{pause}</Text>
+    <Text p="4">Personal belongings of the \nsecurity guards are organized. {pause}{clear}The cardboard boxes have \nbecome soft from absorbing all {pause}{clear}the moisture in the air.{pause}</Text>
+    <Text p="5">A heavy coat is hanging. It is \ncovered with a thick layer of {pause}{clear}dust. It appears that coats are \nunnecessary in this world.{pause}</Text>
+    <Text p="6">The data cards for the research \nstaff are neatly organized.{pause}</Text>
+    <Text p="7">Entertainment and amusement \nitems are stored here.{pause}{clear}Magazines, game systems, and \nprotein bottles can be observed.{pause}</Text>
+    <Text p="8">Everything on the desk is \ncovered with dust.{pause}</Text>
+    <Text p="9">Everything on the desk is \ncovered with dust.{pause}</Text>
+    <Text p="10">Everything on the desk is \ncovered with dust.{pause}</Text>
+    <Text p="11">On the whiteboard there is a \nnotice. “Computers for data {pause}{clear}acquisition of the experiment will \narrive next week from the {pause}{clear}Military Facility. Those members \nwho are on the experiment team {pause}{clear}should contact Lieutenant Wolf.”{pause}</Text>
+    <Text p="12">It's a compact server for data \ncontrol. It must have broken {pause}{clear}from all the humidity with the \nroom being shut for a long time.{pause}</Text>
+    <Text p="13">There are many other repair items \nnear the tool box.{pause}</Text>
+    <Text p="14">The daily logs taken by the \nsecurity guards are scattered {pause}{clear}everywhere. According to the \nrecords, for a while after their {pause}{clear}arrival to this world, there were \nno dinosaurs seen. But from a {pause}{clear}few years ago smaller sized \ndinosaurs started to appear {pause}{clear}around the area. Since then it \nseems as though the {pause}{clear}experimental activities had \ndecreased.{pause}</Text>
+    <Text p="37"></Text>
+    <Text p="44">{pic}She is struggling to get out of \nthe hand cuffs.{delay 28742}</Text>
+    <Text p="46">She is staring this way with a \nbullish look.{pause}</Text>
+</Strings>

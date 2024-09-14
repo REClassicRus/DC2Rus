@@ -1,0 +1,5 @@
+﻿<Strings>
+    <Text p="5">The ladder leads to the \npoisonous gas area. {pause}{clear}To go down the ladder, a gas \nmask is needed.{pause}</Text>
+    <Text p="8">A sign is posted. It reads, \n“DANGER ROUTE CLOSED DUE TO {pause}{clear}POISONOUS GASES IN AREA \nMUST WEAR GAS MASK TO GO {pause}{clear}TO THE MISSILE SILO UP AHEAD”.{pause}</Text>
+    <Text p="107">This area is full of poisonous \nspores emitted by the poisonous {pause}{clear}plants. If inhaled, they could be \nlife threatening.{pause}</Text>
+</Strings>

@@ -1,0 +1,27 @@
+﻿<Strings>
+    <Text p="0">To get across the lake, you need \nto use the boat.{pause}</Text>
+    <Text p="6">It is locked.  To unlock, you need \nthe City's Key Card.{pause}</Text>
+    <Text p="8">This elevator isn't powered at \nthe moment. It won't operate.{pause}</Text>
+    <Text p="10">The diver's suit is too small for \nDylan.{pause}{clear}Dylan cannot go underwater.{pause}</Text>
+    <Text p="12">It must have been in repair. The \ninside of the engine is exposed.{pause}</Text>
+    <Text p="14">There are many small items. None \nof them appear to be usable.{pause}</Text>
+    <Text p="16">It's a control panel for a small \ncrane.{pause}{clear}The operational instructions are \nwritten on the panel above,{pause}{clear}but the power unit is burned and \nit's impossible to operate.{pause}</Text>
+    <Text p="18">It's a small crane for lifting and \nmoving heavy items.{pause}{clear}Many tiny insect like organisms \nare on the weathered surface of {pause}{clear}the machine.{pause}</Text>
+    <Text p="20">It's a large machine used to raise \nand repair the jet bikes.{pause}{clear}The mechanical parts have \ncorroded away and there are {pause}{clear}insects on them.{pause}</Text>
+    <Text p="22">“Carry-In Entrance of Edward \nCity”{pause}</Text>
+    <Text p="37"></Text>
+    <Text p="38"></Text>
+    <Text p="39"></Text>
+    <Text p="41"></Text>
+    <Text p="42"></Text>
+    <Text p="43"></Text>
+    <Text p="44"></Text>
+    <Text p="47"></Text>
+    <Text p="48"></Text>
+    <Text p="49"></Text>
+    <Text p="57">The diver's suit is too small for \nDylan.{pause}{clear}Dylan cannot go underwater.{pause}</Text>
+    <Text p="59">{pic}Regina used the city's key card \nand released the lock.{delay 28732}{clear}{pic}Must hurry to Edward City.{delay 28732}</Text>
+    <Text p="60">{delay 28677}The Mission Data has been \nupdated.{pause}</Text>
+    <Text p="62">You can go to the underwater \nreactor.{pause}{clear}Will you operate the elevator?{0x3000}</Text>
+    <Text p="63">Wearing the diver's suit to go \ndown to the underwater reactor.{delay 28702}</Text>
+</Strings>

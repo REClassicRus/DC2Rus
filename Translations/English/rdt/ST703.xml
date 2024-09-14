@@ -1,0 +1,13 @@
+﻿<Strings>
+    <Text p="9">Moss has found a home to grow \non his diving suit.{pause}</Text>
+    <Text p="10">It's a terminal which periodically \nrecords data for water {pause}{clear}temperature, water quality, and \nother useful data.{pause}</Text>
+    <Text p="11">They are tools used in \nunderwater applications. {pause}{clear}Somebody was probably \nchecking the wear and tear of {pause}{clear}the parts.{pause}</Text>
+    <Text p="12">It's a control terminal for the \nwater circulation near the 3rd {pause}{clear}Energy Reactor.{pause}{clear}It seems to be working normally. \nThere is no need to operate it.{pause}</Text>
+    <Text p="19">There is no need to operate it \nanymore.{pause}</Text>
+    <Text p="21">It's a small elevator used for \nconstruction. To operate it you {pause}{clear}need to resume power.{pause}</Text>
+    <Text p="22">It's a small elevator used for \nconstruction. To operate it you {pause}{clear}need to resume power.{pause}</Text>
+    <Text p="25">Will you operate the elevator?{0x3000}</Text>
+    <Text p="29">It's a power terminal for the \nsmall elevator used for {pause}{clear}construction.{pause}{clear}Will you turn the power on for \nthe elevator?{0x3000}</Text>
+    <Text p="32">{delay 28687}{pic}Power to the elevator has \nresumed.{delay 28732}</Text>
+    <Text p="33">There is no need to operate it \nanymore.{pause}</Text>
+</Strings>

@@ -1,0 +1,11 @@
+﻿<Strings>
+    <Text p="5">General medical books and \npatient records are filed here. {pause}{clear}Many of the patients' records \nindicate symptoms never heard {pause}{clear}of before.{pause}</Text>
+    <Text p="7">It's a shelf for freezing \nmedicines and chemicals.{pause}</Text>
+    <Text p="9">The flesh has been ripped from \nhis stomach to his leg.{pause}{clear}It looks like a few years have \npassed since his death.{pause}</Text>
+    <Text p="11">There are large stains of blood.{pause}</Text>
+    <Text p="13">Bottles for filling medicine are \nplaced here.{pause}{clear}They are almost all empty.{pause}</Text>
+    <Text p="15">It's a clear plastic curtain.{pause}{clear}Underneath the curtain, there is \nblood.{pause}</Text>
+    <Text p="17">Parts of the mattress have been \ntorn by claws and there are {pause}{clear}blood stains.{pause}</Text>
+    <Text p="19">He must have been attacked \nwhilst sleeping as there are no {pause}{clear}signs of resistance.{pause}</Text>
+    <Text p="21">Medical tools are stored here.\nIt seems that all the health {pause}{clear}recovery aids have been used \nup.{pause}</Text>
+</Strings>

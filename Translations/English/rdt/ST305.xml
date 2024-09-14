@@ -1,0 +1,13 @@
+﻿<Strings>
+    <Text p="6">{pause}</Text>
+    <Text p="9">A dinosaur has built a nest here. \nBetter not to disturb it.{pause}</Text>
+    <Text p="11">There are materials scattered \nabout. {pause}{clear}It appears that the dinosaurs \nwere here.{pause}</Text>
+    <Text p="15">The ventilation hole is open. You \ncannot operate it from this side.{pause}</Text>
+    <Text p="17">The ventilation hole is closed. {pause}{clear}You cannot operate it from this \nside.{pause}</Text>
+    <Text p="38">It's a terminal to open and close \nthe ventilation hole.{pause}{clear}Will you operate it?{0x3000}</Text>
+    <Text p="39">It's a water pipe for cooling the \ninstruments used for {pause}{clear}experiments. There is no power \ngoing to the intruments or to {pause}{clear}the water pipe.{pause}</Text>
+    <Text p="41">The machine appears to be in \nrepair. With many tools still {pause}{clear}scattered about, it looks like \nthe repair wasn't completed.{pause}</Text>
+    <Text p="43">It's a device which controls and \nfeeds power to all the {pause}{clear}experimental intruments in the \nfacility. It has auxilary power but {pause}{clear}it's not enough to operate it.{pause}</Text>
+    <Text p="45">It's a wooden desk. It is starting \nto rot due to the humidity.{pause}</Text>
+    <Text p="47">The jungle vegetation has \nintruded inside by forcing {pause}{clear}through the wall.{pause}</Text>
+</Strings>

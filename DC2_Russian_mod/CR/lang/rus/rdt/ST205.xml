@@ -1,0 +1,27 @@
+﻿<Strings>
+    <Text p="2">On the shelf are many unused \ncomputers.{pause}</Text>
+    <Text p="4">It's a super computer which \nstores the records of the {pause}{clear}people living in this city.{pause}</Text>
+    <Text p="6">It's a super computer which \nstores the records of the {pause}{clear}people living in this city.{pause}</Text>
+    <Text p="8">Unwanted materials and supplies \nhave been thrown into the {pause}{clear}boxes.{pause}</Text>
+    <Text p="21">There is no need to operate.{pause}</Text>
+    <Text p="23">It's a control panel for the shield \nshutter.{pause}{clear}It is used for alarming \ntresspassers. A blue light is lit.{pause}{clear}To operate, you need a key plate.{pause}</Text>
+    <Text p="33"></Text>
+    <Text p="35"></Text>
+    <Text p="38"></Text>
+    <Text p="39"></Text>
+    <Text p="46"></Text>
+    <Text p="49"></Text>
+    <Text p="51"></Text>
+    <Text p="67"></Text>
+    <Text p="71"></Text>
+    <Text p="72"></Text>
+    <Text p="75"></Text>
+    <Text p="76"></Text>
+    <Text p="77">Regina has returned to the patrol \nship with the girl.{delay 28712}</Text>
+    <Text p="79">This box appears to be used for \nstoring important materials.{pause}{clear}A red light is lit. To open, you \nneed a key plate.{pause}</Text>
+    <Text p="80">Nothing is in the box.{pause}</Text>
+    <Text p="86">Nothing happened.{pause}{clear}This key plate is not the correct \none for this terminal.{pause}</Text>
+    <Text p="87">This is the key plate which Dylan \nthrew out.{pause}</Text>
+    <Text p="89">The shield shutter is in operation. \nOn the other side of the {pause}{clear}shutter is a shadow of a \nperson.{pause}</Text>
+    <Text p="90"></Text>
+</Strings>
